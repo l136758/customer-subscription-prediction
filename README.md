@@ -63,6 +63,8 @@ The first split in the tree is **Discount Applied**: customers who used a discou
 ### Task 2 — Customer Segmentation (K-Means)
 
 - Tried k = 2, 3, 4, 5. No outlier clusters in any of them (every cluster is more than 10% of the data)
+
+  
 ![K-Means with 3 clusters](images/kmeans_3_clusters.png)
 
 - **km_3** profile:
