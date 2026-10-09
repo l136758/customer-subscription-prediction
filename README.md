@@ -103,8 +103,8 @@ Purchase amount, rating and previous purchases are weak predictors of subscripti
     ├── Data_Mining_Milestone1.pdf      # problem, objectives, hypotheses
     ├── Data_Mining_Milestone2.pdf      # data cleaning and statistics
     ├── Data_Mining_Milestone3.pdf      # visualization and correlation
-    ├── Data_Mining_Milestone4.docx     # decision trees and clustering
-    ├── Data_Mining_Presentation.pptx
+    ├── Data_Mining_Milestone4.pdf      # decision trees and clustering
+    ├── Data_Mining_Presentation.pdf
     ├── Reports_Before_Cleaning/        # SAS output before cleaning
     └── Reports_After_Cleaning/         # SAS output after cleaning
 ```
